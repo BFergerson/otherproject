@@ -20,7 +20,7 @@
       <artifactId>my-project</artifactId>
       <version>1.0</version>
       <scope>system</scope>
-      <systemPath>/home/brandon/Desktop/my-project-1.0-SNAPSHOT.jar</systemPath>
+      <systemPath>${basedir}/my-project-1.0-SNAPSHOT.jar</systemPath>
     </dependency>
     <dependency>
       <groupId>com.google.guava</groupId>
