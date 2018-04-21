@@ -17,4 +17,9 @@ public class App2 {
         yay.myMethod();
         System.out.println(arrayList.size());
     }
+    
+    public static void anotherOne() {
+        MyClass yay = new MyClass();
+        yay.myMethod();
+    }
 }
