@@ -7,6 +7,10 @@ import java.util.List;
  * Hello world!
  */
 public class App2 {
+    static {
+        new MyClass().myMethod();
+    }
+
     public static void main(String[] args) {
         System.out.println("Hello World!");
 
