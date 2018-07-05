@@ -9,6 +9,7 @@ import java.util.List;
 public class App2 {
     static {
         new MyClass().myMethod();
+        System.out.println(String.valueOf(10));
     }
 
     public static void main(String[] args) {
