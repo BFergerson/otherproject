@@ -21,7 +21,7 @@ public class App2 {
         System.out.println(arrayList.size());
     }
 
-    public static void anotherOne() {
+    public static void anotherOne(String s, int bb) {
         MyClass yay = new MyClass();
         yay.myMethod();
     }
