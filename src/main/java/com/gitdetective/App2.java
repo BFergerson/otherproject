@@ -41,6 +41,6 @@ public class App2 {
 
     public static void anotherOne() {
         MyClass yay = new MyClass();
-        yay.myMethod();
+        yay.myMethod2("test");
     }
 }
